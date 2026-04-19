@@ -17,6 +17,7 @@
     "@dark-yasiya/scrap": "1.0.1",
     "pino": "^7.0.5",
     "pm2": "^6.0.8",
+    "socket.io": "^4.7.2",
     "util": "^0.12.4",
     "jimp": "^0.16.1",
     "express": "latest",
